@@ -19,7 +19,7 @@ Download the program and find your JSON credentials. You will need to update the
 Additionally, you MUST have Firebase Admin in your environment. 
 
 Execution of the program: `python EmployeeHours.py`  
-The section displays adjusting hours.  
+The first section displays adjusting hours.  
 The second shows how to check and update training status.  
 The third adds and deletes employees.
 
