@@ -1,6 +1,8 @@
 # Overview
 This program is designed to use a database to track employee training.  
-It has the the following functions:  
+Please note, this program has minimal error checking and needs to be optimzed.  
+  
+It currently has the the following functions:  
 * Adding and removing training hours
 * Adding and removing employees
 * Checking employee status
